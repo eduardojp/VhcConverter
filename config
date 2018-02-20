@@ -1,0 +1,5 @@
+hostaddr 192.168.100.125
+port 5432
+dbname vhcservice
+user vhcservice
+password vhcservice
